@@ -2,7 +2,7 @@
 만난 에러 해결 목록
 
 ------------
-## Androidstudio 에러들
+## AndroidStudio 에러들
 
 ### 1 namespace 에러
 - 23_05_17 AndroidStudio를 새로 설치(Flamingo)
