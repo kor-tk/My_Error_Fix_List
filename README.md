@@ -18,4 +18,4 @@ android {
 }
 ```
 
-#### - Solution : File - Project Structure -> Android Gradle Plugin Version(8.0.1)->7.4.2 (그나마 업데이트 전 최신버전)
+#### 해결: 상단의 File - Project Structure -> Android Gradle Plugin Version(8.0.1)->7.4.2 (그나마 업데이트 전 최신버전)
